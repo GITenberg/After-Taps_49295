@@ -1,10 +1,16 @@
 _repo: After-Taps_49295
+_version: 0.1.0
 contributor:
   adapter:
     agent_name: George M. Baker, and Rachel E. Baker
     gutenberg_agent_id: '45261'
     url: http://www.gutenberg.org/2009/agents/45261
+covers:
+- cover_type: archival
+  image_path: 49295-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49295#After-Taps
 gutenberg_issued: '2015-06-27'
 gutenberg_type: Text
 identifiers:
